@@ -42,7 +42,7 @@ p{
 .dog-section {
     position: relative;
     text-align: center;
-    color: white;
+    color: rgb(245, 99, 99);
 }  
     .badge{
         transform: rotate(-25deg);
